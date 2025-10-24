@@ -1,4 +1,4 @@
-# ShadowTorch - Beta
+# Torch Tracker - Beta
 
 Light tracker for use with Shadowdark TTRPG.
 
